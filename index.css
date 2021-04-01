@@ -1,0 +1,47 @@
+main {
+    background-color: rgba(128, 128, 128, 0.2);
+    text-align: center;
+    margin: 0;
+    line-height: 1.5;
+}
+
+#title {
+    margin-top: 40px;
+    margin-bottom: 10px;
+    font-size: 45px;
+}
+
+.desc {
+    font-size: 20px;
+}
+
+img {
+    width: 1000px;
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+
+#img-caption {
+    margin: 5px 0px 5px 0px;
+}
+
+figure {
+    padding: 15px;
+    background: white;
+}
+
+h2 {
+    margin: 50px;
+}
+
+#tribute-info {
+    margin: 0 auto 50px auto;
+    text-align: left;
+    max-width: 500px;
+}
+
+li {
+    margin: 15px;
+}
